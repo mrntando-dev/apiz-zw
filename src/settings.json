@@ -17,7 +17,7 @@
   },
   "categories": [
     {
-      "name": "AI/Tools",
+      "name": "AI",
       "items": [
         {
           "name": "Chatgpt",
@@ -68,7 +68,7 @@
         {
           "name": "Douyin",
           "desc": "Douyin Download",
-          "path": "/douyin?url=",
+          "path": "/download/douyin?url=",
           "status": "ready",
           "params": {
             "url": "Download url"
@@ -153,7 +153,7 @@
         {
           "name": "Xnxx",
           "desc": "Xnxx search",
-          "path": "/xnxx/search?query=",
+          "path": "/download/xnxx?query=",
           "status": "ready",
           "params": {
             "q": "Search query"
@@ -162,7 +162,7 @@
         {
           "name": "Lyrics",
           "desc": "Lirik search",
-          "path": "/api/lirik?q=",
+          "path": "/search/lirik?q=",
           "status": "ready",
           "params": {
             "title": "Search menggunakan title"
