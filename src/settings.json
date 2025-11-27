@@ -20,12 +20,12 @@
       "name": "AI/Tools",
       "items": [
         {
-          "name": "LuminAI",
-          "desc": "Talk with luminai",
-          "path": "/ai/luminai?text=",
+          "name": "Chatgpt",
+          "desc": "Talk with chatgpt",
+          "path": "/ai/chatgpt?text=",
           "status": "ready",
           "params": {
-            "text": "Text for luminai to respond to"
+            "text": "Text for chatgpt to respond to"
           }
         }
       ]
@@ -75,18 +75,18 @@
           }
         },
         {
-          "name": "Ytmp3",
+          "name": "Play",
           "desc": "YouTube Audio Download",
-          "path": "/download/ytmp3?url=",
+          "path": "/download/play?url=",
           "status": "ready",
           "params": {
             "url": "Download url"
           }
         },
         {
-          "name": "Ytmp4",
+          "name": "Ytdl",
           "desc": "YouTube Audio Download",
-          "path": "/download/ytmp4?url=",
+          "path": "/download/ytdl?url=",
           "status": "ready",
           "params": {
             "url": "Download url"
@@ -162,7 +162,7 @@
         {
           "name": "Lyrics",
           "desc": "Lirik search",
-          "path": "/api/lyrics?q=",
+          "path": "/api/lirik?q=",
           "status": "ready",
           "params": {
             "title": "Search menggunakan title"
